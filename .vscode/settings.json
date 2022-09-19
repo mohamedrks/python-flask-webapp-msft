@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/73eae078-11de-435a-b655-835e6ca8528d/AppServices/subscriptions/73eae078-11de-435a-b655-835e6ca8528d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/thermal-comfort",
+    "appService.deploySubpath": "."
+}

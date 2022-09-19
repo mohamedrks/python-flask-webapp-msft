@@ -1,0 +1,2 @@
+Flask==2.0.2
+pythermalcomfort==2.5.2
